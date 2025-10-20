@@ -1795,7 +1795,7 @@ namespace iiMenu.Menu
             },
 
             new[] { // Soundboard [18]
-                new ButtonInfo { buttonText = "Exit Soundboard", method = () => currentCategoryName = "Fun Mods", isTogglable = false, toolTip = "Returns you back to the fun mods." }
+                new ButtonInfo { buttonText = "Exit Soundboard", method = () => currentCategoryName = "Sound Mods", isTogglable = false, toolTip = "Returns you back to the fun mods." }
             },
 
             new[] { // Favorite Mods [19]
